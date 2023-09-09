@@ -1,6 +1,9 @@
 
 # SEGURANÇA DA INFORMAÇÃO COM A UTILIZAÇÃO DE COMPUTAÇÃO EM NUVEM
 
+
+Este repositório tem como objetivo disponibilizar o artigo científico desenvolvido no curso de Bacharel em Sistemas de Informação, na disciplina de Sistemas de Computação Aplicados. O artigo obteve a nota 9,5/10 e foi publicado em uma revista científica, como pode ser verificado abaixo.
+
 ![Cloud Security](https://github.com/MiguelFernandes20/Cloud_Security/assets/81828702/8598380e-eeaa-4b6b-a944-7ae3a9b8140d)
 
 Autores(as): Miguel Ângelo Pinheiro Fernandes, Ernane Martins, Maria Laura Roriz, Hugo Kazita Custódio
